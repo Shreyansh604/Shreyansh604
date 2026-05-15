@@ -17,6 +17,7 @@
 
 <h3 align="left">Live links:</h3>
 <p >https://recipe-gen-c79a.vercel.app/</p>
+<p >https://expense-tracker-zeta-ten-84.vercel.app/register</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
