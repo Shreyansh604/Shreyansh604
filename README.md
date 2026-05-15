@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Backend**
 
-- 📫 How to reach me **sshreyansh605@gmail.com**
+- 📫 How to reach me **sshreyansh604@gmail.com**
 
 <h3 align="left">Live links:</h3>
 <p >https://recipe-gen-c79a.vercel.app/</p>
